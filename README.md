@@ -13,4 +13,4 @@ The tentative schedule for the course is as follows:
  - **Week 5+6**: Backend Theory, Introduction to Django, Databases, APIs in Django
  - **Week 7**: Final assignmnet
 
-Here is the link to our [Telegram group](https://t.me/joinchat/SOmrORRVjQmyIpCeUd-OYw) for further discussions.
+Follow this course on Telegram for further discussions.
