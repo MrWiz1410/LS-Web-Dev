@@ -7,7 +7,7 @@ Welcome to the course on Web Development from Learners' Space by UGAC and WnCC. 
 The course has no prerequisites (except for knowing how to type and use a browser)
 
 The tentative schedule for the course is as follows:
- - **Week 1+2** : Git/GitHub, HTML, CSS
+ - **Week 1+2**: Git/GitHub, HTML, CSS
  - **Week 3**: Bootstrap(Optional), Javascript
  - **Week 4**: Mid-course evaluation assignment
  - **Week 5+6**: Backend Theory, Introduction to Django, Databases, APIs in Django
