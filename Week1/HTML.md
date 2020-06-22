@@ -2,7 +2,7 @@
 
 Now that your are familiar with Git, let's start with the very basics of web development.
 
-The first thing that you need to learn is how to create your webpage and put content into it. HTML is what does that job for you. So checkout the link below to know what HTML actually is and how to use it to create your owm webpage.
+The first thing that you need to learn is how to create your webpage and put content into it. HTML is what does that job for you. So checkout the link below to know what HTML actually is and how to use it to create your own webpage.
  - https://www.w3schools.com/html/html_intro.asp
  
 
