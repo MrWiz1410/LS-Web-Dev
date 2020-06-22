@@ -1,3 +1,5 @@
+# Web Dev (LS 2020) Week 1: HTML
+
 ## Geting Started
 
 Now that your are familiar with Git, let's start with the very basics of web development.
