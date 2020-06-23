@@ -2,7 +2,7 @@
 
 Hello everyone
 
-Welcome to the course on Web Development from Learners' Space by UGAC and WnCC. This course will guide you through the basics of Web Development including, but not limited to Git, HTML, CSS, JavaScript and Django over the course of 7 weeks.
+Welcome to the course on Web Development from Learners' Space by Career Cell and WnCC. This course will guide you through the basics of Web Development including, but not limited to Git, HTML, CSS, JavaScript and Django over the course of 7 weeks.
 
 The course has no prerequisites (except for knowing how to type and use a browser)
 
